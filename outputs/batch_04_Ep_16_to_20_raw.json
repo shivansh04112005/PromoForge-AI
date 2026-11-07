@@ -1,0 +1,207 @@
+{
+  "batch_id": 4,
+  "episodes": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "core_conflicts": [
+        "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+        "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+        "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+        "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+        "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Thug With Cap: \"Harrington! Gerald Harrington paid us!\"",
+        "Opens immediately on Juliana: \"Your heart is racing.\"",
+        "Starts directly on the inciting confrontation: \"You cannot promise that.\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"No.\" (Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.)",
+        "Cuts at peak unresolved tension as \"But every day, he gives me another reason to trust him.\" (Warm crackle of embers in the hearth blending with swelling, tender orchestral strings hol)",
+        "Ends sharply on the unresolved line/action: \"Of them?\""
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 16,
+            "start_time": "00:49.80",
+            "end_time": "01:23.19",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Thug With Cap: \"Harrington! Gerald Harrington paid us!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"No.\" (Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 16: When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 16's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 17,
+            "start_time": "01:18.50",
+            "end_time": "01:58.88",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Your heart is racing.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"But every day, he gives me another reason to trust him.\" (Warm crackle of embers in the hearth blending with swelling, tender orchestral strings hol)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 17: In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 17's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 17,
+            "start_time": "00:32.80",
+            "end_time": "00:59.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"You cannot promise that.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Of them?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 17.",
+        "why_it_works": "High-density dialogue clash in Episode 17 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 18,
+            "start_time": "02:25.80",
+            "end_time": "03:12.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Why would anyone do this?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"What are you going to do?\" (Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with u)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 18: When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 18's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 18,
+            "start_time": "00:03.50",
+            "end_time": "00:41.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"We cannot get through!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 18.",
+        "why_it_works": "High-density dialogue clash in Episode 18 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 19,
+            "start_time": "01:16.50",
+            "end_time": "01:59.63",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"My mother is a prisoner in her own house.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"You make it sound so simple.\" (Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander )",
+        "standalone_context": "Self-contained dramatic conflict from Episode 19: Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 19's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 19,
+            "start_time": "00:05.10",
+            "end_time": "00:37.40",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"My mother's book almost burned with it.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Goodbye, Blackwood.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 19.",
+        "why_it_works": "High-density dialogue clash in Episode 19 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 20,
+            "start_time": "01:02.60",
+            "end_time": "01:54.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Seamus: \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"This house will only bow to me.\" (Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with i)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 20: Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 20's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 20,
+            "start_time": "01:02.60",
+            "end_time": "01:41.40",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Once the old Duchess is gone...\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 20.",
+        "why_it_works": "High-density dialogue clash in Episode 20 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 18,
+            "start_time": "01:41.50",
+            "end_time": "01:59.80",
+            "segment_role": "Leaping Through Burning Window"
+          },
+          {
+            "episode": 19,
+            "start_time": "00:43.00",
+            "end_time": "01:28.90",
+            "segment_role": "Spy Bows to 'Your Grace' in the Woods"
+          }
+        ],
+        "hook_description": "Trapped in a roaring inferno, Alexander scoops Juliana into his arms and shatters straight through the burning parlor window into the night.",
+        "cliffhanger_description": "In the misty woods, a spy bows to the 'penniless soldier' calling him 'Your Grace', revealing his mother is a prisoner and Alexander is the rightful Duke of Ashburg.",
+        "standalone_context": "Opens with explosive action (escaping a burning house) and pivots into the massive twist that the scarred husband is actually the Duke.",
+        "why_it_works": "Delivers both spectacle and the show's title twist ('He was a Duke') inside a 59.0s multi-episode arc."
+      }
+    ]
+  }
+}

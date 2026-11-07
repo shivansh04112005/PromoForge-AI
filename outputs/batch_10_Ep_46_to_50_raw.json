@@ -1,0 +1,153 @@
+{
+  "batch_id": 10,
+  "episodes": [
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "core_conflicts": [
+        "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+        "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+        "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+        "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+        "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on High Priest: \"And I have the power to undo in one hearing what took you three years to steal!\"",
+        "Starts directly on the inciting confrontation: \"And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexand\"",
+        "Opens immediately on Lady Catherine: \"Please, Alexander! Have mercy!\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"Ten days is plenty of time.\" (Slow pan to Catherine standing in her bridal gown beside the sunlit aisle, watching the pr)",
+        "Ends sharply on the unresolved line/action: \"Now a church calls my marriage a lie!\"",
+        "Cuts at peak unresolved tension as \"I accept, Your Grace.\" (Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the fl)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 46,
+            "start_time": "01:36.80",
+            "end_time": "02:23.80",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on High Priest: \"And I have the power to undo in one hearing what took you three years to steal!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Ten days is plenty of time.\" (Slow pan to Catherine standing in her bridal gown beside the sunlit aisle, watching the pr)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 46: The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 46's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 46,
+            "start_time": "00:52.20",
+            "end_time": "01:21.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"And no clerk in London ever entered your name in the Royal register, because as far as the Crown knew, Alexand\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Now a church calls my marriage a lie!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 46.",
+        "why_it_works": "High-density dialogue clash in Episode 46 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 47,
+            "start_time": "01:18.80",
+            "end_time": "02:14.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"Please, Alexander! Have mercy!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"I accept, Your Grace.\" (Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the fl)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 47: While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 47's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 47,
+            "start_time": "01:00.50",
+            "end_time": "01:26.50",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"I have nowhere to go, Your Grace.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Juliana, she tried to destroy you!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 47.",
+        "why_it_works": "High-density dialogue clash in Episode 47 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 48,
+            "start_time": "00:29.20",
+            "end_time": "01:20.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Agnes: \"You sent for me, my lady?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"And make sure no one sees him arrive.\" (Exterior shot looking through the dark diamond-paned window frame at Catherine standing mo)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 48: While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 48's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 49,
+            "start_time": "01:38.30",
+            "end_time": "02:24.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"We always have.\" (Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek )",
+        "standalone_context": "Self-contained dramatic conflict from Episode 49: Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 49's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 50,
+            "start_time": "00:36.50",
+            "end_time": "01:20.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"Unsupervised. In your hands alone.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Or perhaps discretion isn't the only thing you've developed a taste for.\" (Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 50: Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 50's unresolved climax."
+      }
+    ]
+  }
+}

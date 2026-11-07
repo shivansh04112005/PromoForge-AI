@@ -1,0 +1,175 @@
+{
+  "batch_id": 2,
+  "episodes": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "core_conflicts": [
+        "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+        "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+        "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+        "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+        "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Juliana: \"If I stop now, I will think about everything I lost.\"",
+        "Opens immediately on Gerald (Ex-Fiancé): \"Where is that beggar husband?\"",
+        "Opens immediately on Juliana: \"Not yet?\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"Sitting here with him, I don't feel afraid.\" (Warm hearth crackles blending with gentle string music fading out.)",
+        "Cuts at peak unresolved tension as \"I didn't need to.\" (Close-up of Juliana looking after him, a radiant and grateful smile blooming across her fa)",
+        "Cuts at peak unresolved tension as \"Perhaps I was wrong.\" (Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 6,
+            "start_time": "01:10.10",
+            "end_time": "01:55.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"If I stop now, I will think about everything I lost.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Sitting here with him, I don't feel afraid.\" (Warm hearth crackles blending with gentle string music fading out.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 6: Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 6's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 7,
+            "start_time": "01:09.50",
+            "end_time": "01:56.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Gerald (Ex-Fiancé): \"Where is that beggar husband?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"I didn't need to.\" (Close-up of Juliana looking after him, a radiant and grateful smile blooming across her fa)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 7: When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 7's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 8,
+            "start_time": "00:35.80",
+            "end_time": "01:18.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Not yet?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Perhaps I was wrong.\" (Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 8: As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 8's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 9,
+            "start_time": "01:11.20",
+            "end_time": "01:55.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Peasant Mother: \"I will tell the village what you did. They will never forget you.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Impossible.\" (Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames d)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 9: When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 9's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 9,
+            "start_time": "00:06.30",
+            "end_time": "00:35.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"You're certain?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 9.",
+        "why_it_works": "High-density dialogue clash in Episode 9 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 10,
+            "start_time": "00:52.00",
+            "end_time": "01:34.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Does it hurt?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Your touch is the only medicine that has ever eased my pain.\" (Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and ove)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 10: When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 10's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 10,
+            "start_time": "00:05.10",
+            "end_time": "00:53.30",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Alexander!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Does it hurt?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 10.",
+        "why_it_works": "High-density dialogue clash in Episode 10 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 9,
+            "start_time": "01:28.00",
+            "end_time": "01:55.50",
+            "segment_role": "Secret Duke Rumor Hook"
+          },
+          {
+            "episode": 10,
+            "start_time": "00:02.10",
+            "end_time": "00:24.90",
+            "segment_role": "Blood-Soaked Return Cliffhanger"
+          }
+        ],
+        "hook_description": "Gerald warns the Blond Nobleman of a terrifying rumor: a war veteran in the village bears the exact battle scar of the late, presumed-dead Duke.",
+        "cliffhanger_description": "Cuts directly to the cottage door banging open at night as Alexander stumbles in soaked in blood, refusing to remove his shirt.",
+        "standalone_context": "Establishes the central mystery—her 'beggar soldier' husband is secretly the presumed-dead Duke—and immediately puts his life in danger.",
+        "why_it_works": "Pairs high-society conspiracy with visceral physical jeopardy in 50.30s, triggering intense curiosity about the husband's true identity."
+      }
+    ]
+  }
+}

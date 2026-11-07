@@ -1,0 +1,229 @@
+{
+  "batch_id": 3,
+  "episodes": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "core_conflicts": [
+        "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+        "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+        "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+        "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+        "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Juliana: \"Those are all I have left!\"",
+        "Starts directly on the inciting confrontation: \"You have already taken enough from me. Leave!\"",
+        "Opens immediately on Clarissa (Sister): \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown ov\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"There it is. Ha!\" (Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's)",
+        "Ends sharply on the unresolved line/action: \"You cannot simply invade our home because this man makes an accusation!\"",
+        "Cuts at peak unresolved tension as \"Tell me where the garden is.\" (Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacr)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 11,
+            "start_time": "01:06.00",
+            "end_time": "01:52.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Those are all I have left!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"There it is. Ha!\" (Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 11: Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 11's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 11,
+            "start_time": "00:14.40",
+            "end_time": "00:46.30",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"You have already taken enough from me. Leave!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"You cannot simply invade our home because this man makes an accusation!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 11.",
+        "why_it_works": "High-density dialogue clash in Episode 11 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 12,
+            "start_time": "00:46.70",
+            "end_time": "01:27.21",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Clarissa (Sister): \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown ov\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Tell me where the garden is.\" (Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacr)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 12: When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 12's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 12,
+            "start_time": "00:00.50",
+            "end_time": "00:52.30",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Put out your hands, veteran. You are under arrest for theft.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown ov\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 12.",
+        "why_it_works": "High-density dialogue clash in Episode 12 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 13,
+            "start_time": "01:11.40",
+            "end_time": "01:58.88",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"Please... enough!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Please, ring... you have to be here.\" (Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 13: Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 13's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 13,
+            "start_time": "00:05.40",
+            "end_time": "00:48.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Juliana, look at those thorns. You cannot do this.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Juliana, stop!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 13.",
+        "why_it_works": "High-density dialogue clash in Episode 13 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 14,
+            "start_time": "00:47.20",
+            "end_time": "01:27.63",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"You could have lost your hands.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"No one will ever hurt you for protecting me again.\" (Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 14: After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 14's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 15,
+            "start_time": "00:47.80",
+            "end_time": "01:26.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Ah!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"What? You want to fight us, veteran?\" (Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 15: When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 15's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 15,
+            "start_time": "00:08.50",
+            "end_time": "00:49.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Stop! What are you doing?!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Ah!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 15.",
+        "why_it_works": "High-density dialogue clash in Episode 15 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 11,
+            "start_time": "01:31.00",
+            "end_time": "01:52.75",
+            "segment_role": "Planted Pocket Watch Reveal"
+          },
+          {
+            "episode": 12,
+            "start_time": "00:43.70",
+            "end_time": "01:09.20",
+            "segment_role": "Sadistic Blackthorn Briars Ultimatum"
+          }
+        ],
+        "hook_description": "The Constable searches Alexander's coat and pulls out Gerald's gleaming gold pocket watch as Juliana gasps in horror at the frame-up.",
+        "cliffhanger_description": "Clarissa whispers her sadistic price into Juliana's ear: crawl barehanded into razor-sharp frozen blackthorn briars to fetch her ring, 'or your husband hangs from the gallows.'",
+        "standalone_context": "A crystal-clear villain frame-up followed by an impossible torture ultimatum for a loyal wife trying to save her husband from hanging.",
+        "why_it_works": "Bridges the Episode 11 cliffhanger directly into Episode 12's sadistic ultimatum (47.25s total), maximizing viewer outrage and click-through desire."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 13,
+            "start_time": "00:53.50",
+            "end_time": "01:14.00",
+            "segment_role": "Bleeding Hands in Frozen Briars"
+          },
+          {
+            "episode": 14,
+            "start_time": "00:05.60",
+            "end_time": "00:38.50",
+            "segment_role": "Signet Ring Victory & Husband's Vow"
+          }
+        ],
+        "hook_description": "Juliana crawls barehanded through frost-encrusted blackthorn spines, blood pooling on the ice as her sister laughs from the balcony.",
+        "cliffhanger_description": "Juliana emerges holding the emerald ring and demands 'Now release my husband' before Alexander scoops her into his arms swearing vengeance.",
+        "standalone_context": "Visceral sacrifice of a devoted wife bleeding to free her shackled husband.",
+        "why_it_works": "Combines extreme visual stakes (blood on frost) with emotional catharsis and a dark vow of vengeance in 53.40s."
+      }
+    ]
+  }
+}

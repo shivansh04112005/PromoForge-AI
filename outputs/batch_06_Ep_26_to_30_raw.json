@@ -1,0 +1,223 @@
+{
+  "batch_id": 6,
+  "episodes": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "core_conflicts": [
+        "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+        "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+        "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+        "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+        "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on ACTION: \"Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly wi\"",
+        "Starts directly on the inciting confrontation: \"Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention\"",
+        "Opens immediately on Lady Catherine: \"She admits she has been giving the Duchess poison in secret!\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"Where... where... Where did you get this ring? Speak to me!\" (Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's han)",
+        "Ends sharply on the unresolved line/action: \"If the guards hear us, we are both dead.\"",
+        "Cuts at peak unresolved tension as \"Take her.\" (Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 26,
+            "start_time": "01:27.00",
+            "end_time": "02:00.88",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on ACTION: \"Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly wi\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Where... where... Where did you get this ring? Speak to me!\" (Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's han)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 26: While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 26's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 26,
+            "start_time": "00:00.00",
+            "end_time": "00:47.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"If the guards hear us, we are both dead.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 26.",
+        "why_it_works": "High-density dialogue clash in Episode 26 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 27,
+            "start_time": "02:04.80",
+            "end_time": "02:30.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"She admits she has been giving the Duchess poison in secret!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Take her.\" (Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 27: The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 27's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 27,
+            "start_time": "00:01.30",
+            "end_time": "00:37.60",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"This ring...\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"My lost son wore that ring!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 27.",
+        "why_it_works": "High-density dialogue clash in Episode 27 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 28,
+            "start_time": "01:53.30",
+            "end_time": "02:18.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Do not speak about my husband!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"...before he sends you to the gallows.\" (Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 28: Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 28's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 28,
+            "start_time": "00:12.70",
+            "end_time": "00:40.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"She looks exactly like a poisoner.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"I was poisoned!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 28.",
+        "why_it_works": "High-density dialogue clash in Episode 28 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 29,
+            "start_time": "01:24.00",
+            "end_time": "01:56.69",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on ACTION: \"The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone flo\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"They took her locket. But they will not take Alexander from me.\" (Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon )",
+        "standalone_context": "Self-contained dramatic conflict from Episode 29: Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 29's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 29,
+            "start_time": "00:02.90",
+            "end_time": "00:46.50",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"You cannot just destroy it!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 29.",
+        "why_it_works": "High-density dialogue clash in Episode 29 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 30,
+            "start_time": "02:05.50",
+            "end_time": "02:31.21",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Tomorrow, she stops being a prisoner. She becomes a witch.\" (Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting )",
+        "standalone_context": "Self-contained dramatic conflict from Episode 30: When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 30's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 30,
+            "start_time": "00:17.30",
+            "end_time": "00:47.30",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the l\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"We stop hiding the prisoner.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 30.",
+        "why_it_works": "High-density dialogue clash in Episode 30 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 26,
+            "start_time": "01:30.20",
+            "end_time": "02:00.88",
+            "segment_role": "Duchess Recognizes Royal Ring"
+          },
+          {
+            "episode": 27,
+            "start_time": "00:16.80",
+            "end_time": "00:46.40",
+            "segment_role": "Lost Son's Crest & Pounding at Door"
+          }
+        ],
+        "hook_description": "The dying Dowager Duchess gasps in shock as she spots Juliana's wedding band and clamps her wrist: 'Do not move! Where did you get this ring?!'",
+        "cliffhanger_description": "The Duchess weeps: 'That is no ordinary band. It bears the Ashbourne crest. My lost son wore that exact ring! What is your husband's name?' just as guards pound on the door.",
+        "standalone_context": "A mistreated 'maid' curing the dying Duchess discovers her humble soldier husband gave her the royal family's lost signet ring.",
+        "why_it_works": "Pure dramatic irony that hooks viewers on the emotional mother-in-law recognition beat and cuts right before Alexander's name can be spoken."
+      }
+    ]
+  }
+}

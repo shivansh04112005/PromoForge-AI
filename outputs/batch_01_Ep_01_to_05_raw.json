@@ -1,0 +1,251 @@
+{
+  "batch_id": 1,
+  "episodes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "core_conflicts": [
+        "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+        "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+        "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+        "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+        "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Lady Ashcroft (Stepmother): \"Enough!\"",
+        "Starts directly on the inciting confrontation: \"Because he is marrying me.\"",
+        "Opens immediately on Juliana: \"Dignity?\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"...when Clarissa is the true jewel of the county.\" (Cut to black.)",
+        "Ends sharply on the unresolved line/action: \"You swore you loved me!\"",
+        "Cuts at peak unresolved tension as \"...but I will not leave it believing I was the one who should be ashamed.\" (Juliana breathes with steady resolve, holding her head high as the solemn orchestral score)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 1,
+            "start_time": "01:30.90",
+            "end_time": "02:18.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Ashcroft (Stepmother): \"Enough!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"...when Clarissa is the true jewel of the county.\" (Cut to black.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 1: Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 1's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 1,
+            "start_time": "00:39.10",
+            "end_time": "01:05.60",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Because he is marrying me.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"You swore you loved me!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 1.",
+        "why_it_works": "High-density dialogue clash in Episode 1 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 2,
+            "start_time": "01:14.40",
+            "end_time": "01:50.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Dignity?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"...but I will not leave it believing I was the one who should be ashamed.\" (Juliana breathes with steady resolve, holding her head high as the solemn orchestral score)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 2: Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 2's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 2,
+            "start_time": "00:34.30",
+            "end_time": "01:16.40",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Surely you will not let him humiliate me like this?\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Dignity?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 2.",
+        "why_it_works": "High-density dialogue clash in Episode 2 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 3,
+            "start_time": "01:36.50",
+            "end_time": "02:25.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Ashcroft (Stepmother): \"You cannot interfere in a family matter!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Lady Juliana... accept my hand.\" (Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 3: Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 3's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 3,
+            "start_time": "00:08.80",
+            "end_time": "01:00.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"You stole my wedding.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Guards! Remove her!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 3.",
+        "why_it_works": "High-density dialogue clash in Episode 3 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 4,
+            "start_time": "01:53.00",
+            "end_time": "02:29.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on The Priest: \"...husband and wife!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Come, Lady Juliana.\" (Heavy oak doors creaking open, followed by a triumphant musical swell fading out into sile)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 4: Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 4's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 4,
+            "start_time": "00:53.60",
+            "end_time": "01:25.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"If this is pity, take back your ring.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Are you certain?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 4.",
+        "why_it_works": "High-density dialogue clash in Episode 4 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 5,
+            "start_time": "00:55.50",
+            "end_time": "01:50.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Barbara, don't!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Come.\" (Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell tha)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 5: Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 5's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 5,
+            "start_time": "00:25.40",
+            "end_time": "00:56.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"From this moment, you are dead to the Ashcroft family.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Barbara, don't!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 5.",
+        "why_it_works": "High-density dialogue clash in Episode 5 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 1,
+            "start_time": "00:33.70",
+            "end_time": "00:50.00",
+            "segment_role": "Altar Betrayal Hook"
+          },
+          {
+            "episode": 3,
+            "start_time": "01:00.00",
+            "end_time": "01:25.50",
+            "segment_role": "Scarred Stranger Knock-Out Rescue"
+          },
+          {
+            "episode": 3,
+            "start_time": "02:10.20",
+            "end_time": "02:25.75",
+            "segment_role": "Shocking Surprise Proposal Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens on Juliana in her bridal gown asking her fiancé at the altar: 'Gerald? Why are you holding her hand?' as her sister gloats: 'Because he is marrying me.'",
+        "cliffhanger_description": "The Mysterious Scarred Stranger drops a royal guard with one punch, falls to one knee in the cathedral aisle presenting a silver ring: 'Lady Juliana... accept my hand.'",
+        "standalone_context": "The ultimate microdrama trope in 57 seconds: bride betrayed at the altar for her cruel sister, dragged out by guards, and rescued by a lethal scarred stranger who proposes on the spot.",
+        "why_it_works": "Combines the Series Hook (Ep 1 betrayal) with the Series Inciting Twist (Ep 3 rescue and proposal) into a relentless 57.35s vertical trailer."
+      },
+      {
+        "promo_type": "multi_segment_same_ep",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 1,
+            "start_time": "00:11.00",
+            "end_time": "00:25.50",
+            "segment_role": "Aisle Interception Hook"
+          },
+          {
+            "episode": 1,
+            "start_time": "00:33.70",
+            "end_time": "01:05.60",
+            "segment_role": "Altar Reveal & Heartbreak"
+          }
+        ],
+        "hook_description": "Juliana is stopped mid-aisle in her wedding dress by the cold Matriarch: 'You should turn around, Juliana... Not anymore.'",
+        "cliffhanger_description": "Gerald coldly tells his weeping bride 'I changed my mind' as Juliana screams 'You swore you loved me!'",
+        "standalone_context": "Every viewer immediately understands a bride discovering at her own wedding that the groom is marrying her sister instead.",
+        "why_it_works": "Strips out slow walking shots to fuse the two highest-tension dialogue exchanges in Episode 1 into a tight 46.40s emotional gut-punch."
+      }
+    ]
+  }
+}

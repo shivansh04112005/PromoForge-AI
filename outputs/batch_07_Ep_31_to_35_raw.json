@@ -1,0 +1,223 @@
+{
+  "batch_id": 7,
+  "episodes": [
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "core_conflicts": [
+        "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+        "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+        "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+        "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+        "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Lady Catherine: \"Enough!\"",
+        "Starts directly on the inciting confrontation: \"Chained in a dungeon like a common criminal.\"",
+        "Opens immediately on Lady Catherine: \"Silence! Silence!\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"One flame, and your mother's life's work becomes ash.\" (Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the)",
+        "Ends sharply on the unresolved line/action: \"Do you remember?\"",
+        "Cuts at peak unresolved tension as \"Then let's see how brave you are when it touches your skin!\" (Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 31,
+            "start_time": "02:11.00",
+            "end_time": "02:40.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"Enough!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"One flame, and your mother's life's work becomes ash.\" (Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 31: Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 31's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 31,
+            "start_time": "00:14.00",
+            "end_time": "00:50.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Chained in a dungeon like a common criminal.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Do you remember?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 31.",
+        "why_it_works": "High-density dialogue clash in Episode 31 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 32,
+            "start_time": "01:59.60",
+            "end_time": "02:34.38",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lady Catherine: \"Silence! Silence!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Then let's see how brave you are when it touches your skin!\" (Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 32: Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 32's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 32,
+            "start_time": "00:20.20",
+            "end_time": "00:54.20",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Burn it.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"You are lying!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 32.",
+        "why_it_works": "High-density dialogue clash in Episode 32 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 33,
+            "start_time": "02:14.50",
+            "end_time": "02:54.04",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Prudence (Maid): \"My testimony?!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Save your tears for the trial.\" (Save your tears for the trial.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 33: Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 33's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 33,
+            "start_time": "00:50.00",
+            "end_time": "01:19.00",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Yes.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"What do you want me to say?!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 33.",
+        "why_it_works": "High-density dialogue clash in Episode 33 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 34,
+            "start_time": "02:37.00",
+            "end_time": "03:10.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Judge: \"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Lady Juliana Ashcroft...\" (The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 34: Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 34's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 34,
+            "start_time": "00:01.20",
+            "end_time": "00:36.60",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Silence!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 34.",
+        "why_it_works": "High-density dialogue clash in Episode 34 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 35,
+            "start_time": "02:06.00",
+            "end_time": "02:37.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"Because someone wanted you to believe I was dead.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"The men behind it... are the same men ruling Ashwood now.\" (A sudden, ominous orchestral crescendo swells dramatically into silence.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 35: Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 35's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 35,
+            "start_time": "00:09.50",
+            "end_time": "00:49.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Mother.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 35.",
+        "why_it_works": "High-density dialogue clash in Episode 35 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 31,
+            "start_time": "02:10.80",
+            "end_time": "02:40.00",
+            "segment_role": "Branding Iron Burns Mother's Book"
+          },
+          {
+            "episode": 32,
+            "start_time": "02:14.80",
+            "end_time": "02:34.38",
+            "segment_role": "Defiant Rebuke & Poker Inches from Eye"
+          }
+        ],
+        "hook_description": "Catherine screams 'Enough!' and presses a glowing red-hot branding iron directly into Juliana's late mother's herbal ledger as smoke curls up.",
+        "cliffhanger_description": "Chained to the dungeon wall, Juliana tells Catherine 'You have to threaten a chained woman to feel powerful!' driving Catherine to thrust the white-hot poker millimeters from Juliana's eye.",
+        "standalone_context": "High-stakes dungeon torture where the chained heroine verbally destroys her aristocratic tormentor until a red-hot poker is thrust at her eye.",
+        "why_it_works": "Combines extreme visual peril (glowing branding iron reflected in her pupil) with a fiercely satisfying verbal comeback in 48.78s."
+      }
+    ]
+  }
+}

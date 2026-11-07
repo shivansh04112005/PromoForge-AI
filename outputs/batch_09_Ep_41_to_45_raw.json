@@ -1,0 +1,153 @@
+{
+  "batch_id": 9,
+  "episodes": [
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "core_conflicts": [
+        "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+        "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+        "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+        "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+        "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Juliana: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+        "Opens immediately on Rupert / Blond Nobleman: \"I said arrest him!\"",
+        "Opens immediately on Alexander (Bearded Stranger): \"And when you believed I was dead...\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"Shall we?\" (Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim res)",
+        "Cuts at peak unresolved tension as \"And now, Rupert... we settle what you stole.\" (Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn wi)",
+        "Cuts at peak unresolved tension as \"Going somewhere, Lord Sterling?\" (Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escap)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 41,
+            "start_time": "00:58.00",
+            "end_time": "01:36.09",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Shall we?\" (Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim res)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 41: At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 41's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 42,
+            "start_time": "00:23.50",
+            "end_time": "01:17.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Rupert / Blond Nobleman: \"I said arrest him!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"And now, Rupert... we settle what you stole.\" (Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn wi)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 42: Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 42's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 43,
+            "start_time": "01:12.80",
+            "end_time": "01:54.96",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"And when you believed I was dead...\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Going somewhere, Lord Sterling?\" (Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escap)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 43: When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 43's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 43,
+            "start_time": "00:00.60",
+            "end_time": "00:47.40",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"You're lying!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 43.",
+        "why_it_works": "High-density dialogue clash in Episode 43 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Framed & High-Stakes Jeopardy",
+        "segments": [
+          {
+            "episode": 44,
+            "start_time": "00:17.40",
+            "end_time": "01:10.40",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Rupert / Blond Nobleman: \"Do something!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Her?!\" (Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexa)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 44: As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 44's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 45,
+            "start_time": "01:21.50",
+            "end_time": "02:01.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Rupert / Blond Nobleman: \"Juliana?!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"You are not Alexander Ashburton's lawful wife.\" (Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes he)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 45: Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 45's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Secret Royal Identity Reveal",
+        "segments": [
+          {
+            "episode": 45,
+            "start_time": "00:22.90",
+            "end_time": "00:59.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"You're the Duke?\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"I didn't know!\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 45.",
+        "why_it_works": "High-density dialogue clash in Episode 45 that hooks viewers with immediate conflict and cuts before the aftermath."
+      }
+    ]
+  }
+}

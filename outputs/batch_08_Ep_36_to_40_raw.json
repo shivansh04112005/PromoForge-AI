@@ -1,0 +1,153 @@
+{
+  "batch_id": 8,
+  "episodes": [
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "core_conflicts": [
+        "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+        "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+        "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+        "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+        "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Alexander (Bearded Stranger): \"They stole my home!\"",
+        "Starts directly on the inciting confrontation: \"Rupert?\"",
+        "Opens immediately on Juliana: \"I will not!\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"...their dead Duke is coming home.\" (A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberate)",
+        "Ends sharply on the unresolved line/action: \"They declared me dead.\"",
+        "Cuts at peak unresolved tension as \"Let them see what happens when a woman forgets her place.\" (Let them see what happens when a woman forgets her place.)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 36,
+            "start_time": "02:51.60",
+            "end_time": "03:20.75",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"They stole my home!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"...their dead Duke is coming home.\" (A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberate)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 36: Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 36's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Emotional Confrontation & Reversal",
+        "segments": [
+          {
+            "episode": 36,
+            "start_time": "00:17.60",
+            "end_time": "00:43.70",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Rupert?\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"They declared me dead.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 36.",
+        "why_it_works": "High-density dialogue clash in Episode 36 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 37,
+            "start_time": "01:45.50",
+            "end_time": "02:36.47",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"I will not!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Let them see what happens when a woman forgets her place.\" (Let them see what happens when a woman forgets her place.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 37: As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 37's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 38,
+            "start_time": "00:43.20",
+            "end_time": "01:27.91",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Do you know they condemned me?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Alexander...\" (A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fad)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 38: A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 38's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 39,
+            "start_time": "01:02.00",
+            "end_time": "01:38.41",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on ACTION: \"Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"And I am bringing my wife home.\" (Alexander's eyes burn with furious determination as the screen cuts sharply to black.)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 39: While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 39's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 40,
+            "start_time": "01:14.80",
+            "end_time": "01:50.08",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Lord Sterling (Elder Nobleman): \"And its witch will be dead.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"And you look better in silk than you ever did as an ignored cousin.\" (Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 40: High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 40's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Betrayal & Altar Humiliation",
+        "segments": [
+          {
+            "episode": 40,
+            "start_time": "00:19.20",
+            "end_time": "00:45.20",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"And soon, we'll be connected to the Duchess of Ashburgh.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Of the wedding?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 40.",
+        "why_it_works": "High-density dialogue clash in Episode 40 that hooks viewers with immediate conflict and cuts before the aftermath."
+      }
+    ]
+  }
+}

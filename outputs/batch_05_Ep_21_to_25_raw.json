@@ -1,0 +1,213 @@
+{
+  "batch_id": 5,
+  "episodes": [
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "source_mode": "deterministic_neuro_symbolic",
+  "raw_output": {
+    "narrative_arc_summary": {
+      "batch_episodes": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "core_conflicts": [
+        "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+        "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+        "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+        "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+        "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic."
+      ],
+      "key_revelations_or_betrayals": [
+        "Opens immediately on Prudence (Maid): \"Oh, thank God! His chest is quiet! The rattling has stopped!\"",
+        "Starts directly on the inciting confrontation: \"Lady Juliana! Please! You have to help me, Toby is dying!\"",
+        "Opens immediately on Juliana: \"Where is the West Wing?\""
+      ],
+      "peak_emotional_moments": [
+        "Cuts at peak unresolved tension as \"Inside that massive house with all their wealth, she is fading to nothing, and no one can \" (Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with)",
+        "Ends sharply on the unresolved line/action: \"His skin is burning hot.\"",
+        "Cuts at peak unresolved tension as \"Who has been treating you?\" (Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes fo)"
+      ]
+    },
+    "candidates": [
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 21,
+            "start_time": "01:12.00",
+            "end_time": "01:54.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Prudence (Maid): \"Oh, thank God! His chest is quiet! The rattling has stopped!\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Inside that massive house with all their wealth, she is fading to nothing, and no one can \" (Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 21: After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 21's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 21,
+            "start_time": "00:04.20",
+            "end_time": "00:48.80",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Lady Juliana! Please! You have to help me, Toby is dying!\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"His skin is burning hot.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 21.",
+        "why_it_works": "High-density dialogue clash in Episode 21 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 22,
+            "start_time": "01:22.50",
+            "end_time": "02:11.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"Where is the West Wing?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Who has been treating you?\" (Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes fo)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 22: Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 22's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 22,
+            "start_time": "00:19.10",
+            "end_time": "00:45.60",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"The Duchess is dying.\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"Who is this?\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 22.",
+        "why_it_works": "High-density dialogue clash in Episode 22 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 23,
+            "start_time": "01:22.00",
+            "end_time": "02:11.50",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Prudence (Maid): \"Poison?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Juliana... someone is coming.\" (Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks )",
+        "standalone_context": "Self-contained dramatic conflict from Episode 23: After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 23's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 24,
+            "start_time": "00:56.20",
+            "end_time": "01:29.80",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Juliana: \"All of it, my lady?\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"I will return. You cannot stop the healer.\" (Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 24: When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 24's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Physical Rescue & Action",
+        "segments": [
+          {
+            "episode": 24,
+            "start_time": "00:04.00",
+            "end_time": "00:34.50",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 24.",
+        "why_it_works": "High-density dialogue clash in Episode 24 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 25,
+            "start_time": "02:17.40",
+            "end_time": "02:48.00",
+            "segment_role": "Hook Escalation to Episode Cliffhanger"
+          }
+        ],
+        "hook_description": "Opens immediately on Alexander (Bearded Stranger): \"Worry? They struck you. They could have killed you.\"",
+        "cliffhanger_description": "Cuts at peak unresolved tension as \"Everything you saw.\" (Wide tracking shot from behind Alexander and Juliana as their silhouettes disappear into t)",
+        "standalone_context": "Self-contained dramatic conflict from Episode 25: Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+        "why_it_works": "Hooks scrolling viewers within 3 seconds on an emotional confrontation and cuts on Episode 25's unresolved climax."
+      },
+      {
+        "promo_type": "single_segment",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 25,
+            "start_time": "00:18.80",
+            "end_time": "00:57.20",
+            "segment_role": "Mid-Episode Confrontation Hook & Reversal"
+          }
+        ],
+        "hook_description": "Starts directly on the inciting confrontation: \"Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt sla\"",
+        "cliffhanger_description": "Ends sharply on the unresolved line/action: \"The Dowager Duchess.\"",
+        "standalone_context": "Requires zero prior lore—viewers immediately grasp the power dynamic in Episode 25.",
+        "why_it_works": "High-density dialogue clash in Episode 25 that hooks viewers with immediate conflict and cuts before the aftermath."
+      },
+      {
+        "promo_type": "multi_segment_cross_ep",
+        "archetype": "Poisoning & Medical Intrigue",
+        "segments": [
+          {
+            "episode": 23,
+            "start_time": "01:16.00",
+            "end_time": "01:31.00",
+            "segment_role": "Arsenic Diagnosis"
+          },
+          {
+            "episode": 23,
+            "start_time": "01:58.50",
+            "end_time": "02:11.50",
+            "segment_role": "Footsteps at the Door"
+          },
+          {
+            "episode": 24,
+            "start_time": "00:20.80",
+            "end_time": "00:42.80",
+            "segment_role": "Riding Crop Strike"
+          }
+        ],
+        "hook_description": "Juliana snaps her mother's medical ledger shut beside the dying Duchess: 'Someone is poisoning her... Arsenic.'",
+        "cliffhanger_description": "The bedroom door bursts open and Lady Catherine lashes Juliana across the torso with a riding crop: 'Then let her suffer!'",
+        "standalone_context": "A disguised healer discovers a noble matriarch is being slowly poisoned with arsenic and gets caught red-handed by the culprit.",
+        "why_it_works": "Classic murder-mystery hook combined with infuriating villain cruelty in 50.0s."
+      }
+    ]
+  }
+}
