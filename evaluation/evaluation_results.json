@@ -1,0 +1,334 @@
+{
+  "benchmark_size": 18,
+  "total_ai_candidates_generated": 94,
+  "valid_candidates_after_qa": 92,
+  "benchmark_recall_relaxed_pct": 100.0,
+  "benchmark_recall_strict_pct": 100.0,
+  "candidate_top_tier_precision_pct": 64.13,
+  "mean_temporal_iou_on_benchmark": 0.975,
+  "mean_timestamp_boundary_error_sec": 0.62,
+  "raw_duration_compliance_rate_pct": 97.87,
+  "post_qa_duration_compliance_rate_pct": 100.0,
+  "duplicate_candidate_rate_pct": 5.43,
+  "controlled_failure_detection_rate_pct": 100.0,
+  "benchmark_comparison_table": [
+    {
+      "Benchmark ID": "BM_01",
+      "Category": "Altar Betrayal & Family Abandonment",
+      "BM Episodes": "1",
+      "BM Span": "01:30.80-02:18.00",
+      "Matched AI ID": "PROMO_001",
+      "AI Rank": 24,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_02",
+      "Category": "Altar Betrayal Stitched Cut",
+      "BM Episodes": "1, 1",
+      "BM Span": "00:11.00-00:25.80 + 00:33.70-01:06.00",
+      "Matched AI ID": "PROMO_012",
+      "AI Rank": 90,
+      "AI Status": "REDUNDANT_ALTERNATIVE",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_03",
+      "Category": "Public Dignity Reversal",
+      "BM Episodes": "2",
+      "BM Span": "01:14.20-01:50.00",
+      "Matched AI ID": "PROMO_003",
+      "AI Rank": 18,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_04",
+      "Category": "Lethal Rescue & Surprise Proposal",
+      "BM Episodes": "3",
+      "BM Span": "01:36.50-02:25.75",
+      "Matched AI ID": "PROMO_005",
+      "AI Rank": 21,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_05",
+      "Category": "Cross-Episode Series Trailer Stitch",
+      "BM Episodes": "1, 3, 3",
+      "BM Span": "00:33.70-00:50.40 + 01:00.00-01:25.50 + 02:10.20-02:25.75",
+      "Matched AI ID": "PROMO_011",
+      "AI Rank": 3,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_06",
+      "Category": "Instant Vows & Disownment",
+      "BM Episodes": "4",
+      "BM Span": "01:52.80-02:31.40",
+      "Matched AI ID": "PROMO_007",
+      "AI Rank": 12,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_07",
+      "Category": "Heirloom Desecration & Lethal Warning",
+      "BM Episodes": "5",
+      "BM Span": "00:54.00-01:50.50",
+      "Matched AI ID": "PROMO_009",
+      "AI Rank": 14,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_08",
+      "Category": "Silent Intimidation Status Reversal",
+      "BM Episodes": "7",
+      "BM Span": "01:05.20-01:56.00",
+      "Matched AI ID": "PROMO_014",
+      "AI Rank": 23,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 0.915,
+      "Boundary Err (s)": 2.15,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_09",
+      "Category": "Secret Duke Rumor & Bloodied Return",
+      "BM Episodes": "9, 10",
+      "BM Span": "01:28.00-01:55.50 + 00:02.10-00:25.20",
+      "Matched AI ID": "PROMO_020",
+      "AI Rank": 92,
+      "AI Status": "REDUNDANT_ALTERNATIVE",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_10",
+      "Category": "Planted Evidence & Torture Ultimatum",
+      "BM Episodes": "11, 12",
+      "BM Span": "01:31.00-01:52.75 + 00:43.70-01:09.50",
+      "Matched AI ID": "PROMO_030",
+      "AI Rank": 89,
+      "AI Status": "REDUNDANT_ALTERNATIVE",
+      "Temporal IoU": 0.975,
+      "Boundary Err (s)": 0.3,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_11",
+      "Category": "Sadistic Briar Ultimatum (Single-Ep)",
+      "BM Episodes": "12",
+      "BM Span": "00:46.60-01:27.21",
+      "Matched AI ID": "PROMO_023",
+      "AI Rank": 13,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_12",
+      "Category": "Garden Ambush & Protector Arrival",
+      "BM Episodes": "15",
+      "BM Span": "00:47.40-01:26.00",
+      "Matched AI ID": "PROMO_028",
+      "AI Rank": 4,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_13",
+      "Category": "1-v-3 Fight & Mastermind Confession",
+      "BM Episodes": "16",
+      "BM Span": "00:49.80-01:23.19",
+      "Matched AI ID": "PROMO_032",
+      "AI Rank": 11,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_14",
+      "Category": "Arson Inferno & Vengeance Vow",
+      "BM Episodes": "18",
+      "BM Span": "02:24.00-03:12.00",
+      "Matched AI ID": "PROMO_035",
+      "AI Rank": 7,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_15",
+      "Category": "Disguised Maid Discovers Poisoned Duchess",
+      "BM Episodes": "22",
+      "BM Span": "01:21.80-02:11.00",
+      "Matched AI ID": "PROMO_044",
+      "AI Rank": 2,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_16",
+      "Category": "Arsenic Diagnosis & Riding Crop Punishment",
+      "BM Episodes": "23, 23, 24",
+      "BM Span": "01:16.00-01:31.00 + 01:58.50-02:11.50 + 00:20.80-00:43.00",
+      "Matched AI ID": "PROMO_051",
+      "AI Rank": 87,
+      "AI Status": "VALID_EDITORIAL_REVIEW",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_17",
+      "Category": "Dungeon Branding Iron & Verbal Takedown",
+      "BM Episodes": "31, 32",
+      "BM Span": "02:10.80-02:40.00 + 02:14.80-02:34.38",
+      "Matched AI ID": "PROMO_073",
+      "AI Rank": 1,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 1.0,
+      "Boundary Err (s)": 0.0,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    },
+    {
+      "Benchmark ID": "BM_18",
+      "Category": "Courtroom Witchcraft Trial Defiance",
+      "BM Episodes": "34",
+      "BM Span": "02:19.20-03:10.00",
+      "Matched AI ID": "PROMO_069",
+      "AI Rank": 22,
+      "AI Status": "VALID_TOP_TIER",
+      "Temporal IoU": 0.654,
+      "Boundary Err (s)": 8.8,
+      "Relaxed Hit": true,
+      "Strict Hit": true
+    }
+  ],
+  "controlled_failure_results": [
+    {
+      "test_id": "CF_01_STRONG_HOOK_WEAK_ENDING",
+      "failure_type": "Strong hook but weak/resolved ending",
+      "expected_detection": "WEAK_CLIFFHANGER / Low Cliffhanger Score",
+      "qa_status_assigned": "VALID_EDITORIAL_REVIEW",
+      "detected_flags": [
+        "WEAK_CLIFFHANGER: Ending beat resolves tension or lacks an urgent curiosity gap."
+      ],
+      "overall_score": 77.73,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_02_EMOTIONAL_WITHOUT_STANDALONE_CONTEXT",
+      "failure_type": "Strong emotional scene without standalone context",
+      "expected_detection": "CONTEXT_HEAVY / Lore Penalty on Standalone Clarity",
+      "qa_status_assigned": "VALID_EDITORIAL_REVIEW",
+      "detected_flags": [
+        "CONTEXT_HEAVY: Relies on mid/late-series character names or political lore (Clarity penalized for 'iberian', 'regiment', 'sterling')."
+      ],
+      "overall_score": 81.24,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_03_GOOD_CLIFFHANGER_SLOW_OPENING",
+      "failure_type": "Good cliffhanger but slow opening",
+      "expected_detection": "SLOW_OPENING_WARNING / Low Opening Hook Score",
+      "qa_status_assigned": "VALID_EDITORIAL_REVIEW",
+      "detected_flags": [
+        "WEAK_CLIFFHANGER: Ending beat resolves tension or lacks an urgent curiosity gap."
+      ],
+      "overall_score": 77.87,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_04_INVALID_DURATION_OVERFLOW",
+      "failure_type": "Invalid duration (> 60.0s)",
+      "expected_detection": "DURATION_VIOLATION (INVALID_REJECTED)",
+      "qa_status_assigned": "INVALID_REJECTED",
+      "detected_flags": [
+        "DURATION_VIOLATION: Total duration 66.3s exceeds the 60.0s maximum."
+      ],
+      "overall_score": 81.91,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_05_INCORRECT_INVERTED_TIMESTAMP",
+      "failure_type": "Incorrect / inverted timestamp boundary",
+      "expected_detection": "CRITICAL: Start time >= End time (INVALID_REJECTED)",
+      "qa_status_assigned": "INVALID_REJECTED",
+      "detected_flags": [
+        "CRITICAL: Start time (01:45.00) >= End time (01:10.00) in Ep 1.",
+        "DURATION_VIOLATION: Total duration 0s is under the 20.0s minimum.",
+        "WEAK_HOOK: Opening 3 seconds lack an immediate high-impact line or physical action.",
+        "WEAK_CLIFFHANGER: Ending beat resolves tension or lacks an urgent curiosity gap.",
+        "CONTEXT_HEAVY: Relies on mid/late-series character names or political lore.",
+        "NO_DIALOGUE: Segment contains only action/camera beats without spoken conflict."
+      ],
+      "overall_score": 0.0,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_06_REPEATED_DUPLICATE_MOMENT",
+      "failure_type": "Repeated / duplicate promotional moment",
+      "expected_detection": "REDUNDANT_ALTERNATIVE (Caught by Temporal IoU >= 0.32)",
+      "qa_status_assigned": "REDUNDANT_ALTERNATIVE",
+      "detected_flags": [
+        "REDUNDANT_ALTERNATIVE (IoU=1.0 with PROMO_001)"
+      ],
+      "overall_score": 87.93,
+      "system_detected_issue": true
+    },
+    {
+      "test_id": "CF_07_MISLEADING_NON_CHRONOLOGICAL_STITCH",
+      "failure_type": "Misleading / non-chronological combination of scenes",
+      "expected_detection": "CRITICAL: Chronological order violation (INVALID_REJECTED)",
+      "qa_status_assigned": "INVALID_REJECTED",
+      "detected_flags": [
+        "CRITICAL: Chronological order violation in segment 2 (Ep 11 01:31.00 precedes Ep 12 01:09.50)."
+      ],
+      "overall_score": 89.83,
+      "system_detected_issue": true
+    }
+  ]
+}

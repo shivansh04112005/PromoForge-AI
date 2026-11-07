@@ -1,0 +1,38 @@
+[
+  {
+    "failure_id": "FAIL_01",
+    "candidate_id": "PROMO_041 (Episodes 18 & 19 Multi-Segment)",
+    "what_got_wrong": "Proposed a cross-episode multi-segment clip (Ep 18 [01:41.50-01:59.80] + Ep 19 [00:43.00-01:28.90]) whose raw timestamps totaled 64.20s, and after snapping to exact screenplay beat boundaries expanded to 66.30s—violating the hard 60.0s maximum.",
+    "root_cause_category": "Timestamp Boundary Snapping & Multi-Segment Duration Arithmetic",
+    "why_it_happened": "In Episode 19, the informant's dialogue beat at 01:25.90 ('Then Ashburg will remember who it belongs to') overlaps with a low-angle CAMERA push-in beat that runs until 01:29.50. Because our timeline slicer includes all overlapping visual/audio layers active during the final line, snapping to the end of the camera shot added +2.1s, pushing the clip over 60.0s.",
+    "caught_by_qa_gate": true,
+    "how_to_improve": "Implement an automated 'Boundary Trimmer' in Stage 4 that trims trailing non-dialogue camera padding or starts Episode 19 at 00:55.30 ('Rupert has become the face of Ashburg') to bring the total stitched duration to an exact 52.5s."
+  },
+  {
+    "failure_id": "FAIL_02",
+    "candidate_id": "PROMO_062 (Episodes 26 & 27 Multi-Segment)",
+    "what_got_wrong": "Stitched Ep 26 [01:30.20-02:00.88] and Ep 27 [00:16.80-00:46.40], resulting in a 63.98s total duration (+3.98s over cap) AND triggered a SLOW_OPENING_WARNING because the first beat at 01:26.50 in Ep 26 was a 4.3s silent camera tracking shot down Juliana's apron.",
+    "root_cause_category": "Preprocessing Window Overlap & Opening Beat Selection",
+    "why_it_happened": "The sharp gasp SOUND FX at 01:30.20 overlapped with the preceding CAMERA tracking beat [01:26.50-01:30.80]. The overlap tolerance (0.5s) pulled in the 01:26.50 camera beat, adding 4.3s of silent buildup at the start of the clip.",
+    "caught_by_qa_gate": true,
+    "how_to_improve": "Anchor segment start times strictly to the first DIALOGUE, ACTION, or SOUND_FX beat rather than expanding backward to include overlapping pre-roll CAMERA shots."
+  },
+  {
+    "failure_id": "FAIL_03",
+    "candidate_id": "PROMO_076 (Episode 37 Single-Segment) & PROMO_074 (Episode 36 Single-Segment)",
+    "what_got_wrong": "Assigned the archetype label 'Betrayal & Altar Humiliation' to Episodes 36 and 37, even though those episodes take place in the mountain cabin and Ashbourne Manor where Catherine and Rupert plan their wedding while framing Juliana for execution.",
+    "root_cause_category": "Semantic Keyword Ambiguity in Archetype Classifier",
+    "why_it_happened": "The rule-based archetype fallback checks for keywords like 'wedding', 'marry', and 'betray'. Because Episodes 36-37 discuss Rupert and Catherine's upcoming wedding and betrayal of Alexander, the keyword matcher conflated it with Episode 1's 'Altar Humiliation', slightly inflating its Promotional Curiosity prior.",
+    "caught_by_qa_gate": false,
+    "how_to_improve": "Condition 'Altar Humiliation' strictly on scene headings containing 'CATHEDRAL' or 'CHAPEL', or use zero-shot LLM classification for archetype tagging."
+  },
+  {
+    "failure_id": "FAIL_04",
+    "candidate_id": "Gemini REST API v1beta Batch Call (Stage 2/3)",
+    "what_got_wrong": "During batch discovery across 5-episode chunks (~18,000 characters per prompt), the direct REST call to Gemini v1beta exhausted retries due to free-tier RPM/TPM burst limits and strict JSON schema formatting on large multi-episode payloads.",
+    "root_cause_category": "LLM Context Window & Free-Tier Rate Limiting",
+    "why_it_happened": "Sending 5 full episodes of beat-level timestamps in back-to-back requests exceeds Google AI Studio Free Tier burst token-per-minute limits without a 12-second inter-batch sleep.",
+    "caught_by_qa_gate": true,
+    "how_to_improve": "Pre-filter each episode down to the top 3 high-signal 45s candidate windows in Python first (reducing prompt tokens by 78%), then send only those candidate windows to the LLM for semantic scoring and copywriting."
+  }
+]
